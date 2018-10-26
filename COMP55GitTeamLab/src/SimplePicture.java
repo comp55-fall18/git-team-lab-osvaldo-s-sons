@@ -22,5 +22,6 @@ public class SimplePicture extends GraphicsProgram {
 		
 		// Dharak Commenting
 		//Seth Comment
+		//Testing purposes
 	}
 }
