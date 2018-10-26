@@ -1,6 +1,7 @@
 //comment one
 //Hackslash comment: Fazil
 //Hackslash second comment.
+// Hackslash Dharak
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -16,7 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage("robot.jpg", 400, 400);
 		add(robot);
 		// Dharak commenting
-		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
+		GLabel label = new GLabel("How I feel when using doogle gocs", 200, 400);
 		add(label);
 		
 		// Dharak Commenting
