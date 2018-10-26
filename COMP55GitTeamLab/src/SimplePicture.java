@@ -18,5 +18,6 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		
 		// Dharak Commenting
+		//Seth Comment
 	}
 }
